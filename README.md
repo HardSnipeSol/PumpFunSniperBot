@@ -90,6 +90,6 @@ pip install -r requirements.txt
 py main.py
 ```
 
-If you want to get the full version, message me on 
-telegram: https://t.me/devsharplabs 
+For full version message me on:
+telegram: https://t.me/devsharplabs or
 discord: devsharplabs or user id: (782226818441936906)
