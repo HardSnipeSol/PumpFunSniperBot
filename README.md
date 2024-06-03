@@ -90,6 +90,8 @@ pip install -r requirements.txt
 py main.py
 ```
 
-For full version message me on:
-Telegram: https://t.me/devsharplabs or
-Discord: devsharplabs or user id: (782226818441936906)
+## CONTACT
+For full version message me on: 
+- Telegram: [devsharplabs](https://t.me/devsharplabs)
+- Discord: `@devsharplabs` or user id: (782226818441936906)
+- Server: https://discord.gg/3G2Hd2ePuz
